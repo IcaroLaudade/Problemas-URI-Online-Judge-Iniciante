@@ -40,6 +40,4 @@ if __name__ == "__main__":
                 sobra=somavitaminac-130
                 print 'Menos %s mg' %sobra
             else:
-                print str(somavitaminac)+' mg'    
-
-  
+                print str(somavitaminac)+' mg'
