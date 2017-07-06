@@ -1,0 +1,6 @@
+C:\Users\Icaro\Desktop\2060\2060\bin\Debug\2060.exe.config
+C:\Users\Icaro\Desktop\2060\2060\bin\Debug\2060.exe
+C:\Users\Icaro\Desktop\2060\2060\bin\Debug\2060.pdb
+C:\Users\Icaro\Desktop\2060\2060\obj\Debug\2060.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\2060\2060\obj\Debug\2060.exe
+C:\Users\Icaro\Desktop\2060\2060\obj\Debug\2060.pdb
