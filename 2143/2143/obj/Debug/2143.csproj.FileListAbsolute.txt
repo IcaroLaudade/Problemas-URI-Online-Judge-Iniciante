@@ -1,0 +1,6 @@
+C:\Users\Icaro\Desktop\2143\2143\bin\Debug\2143.exe.config
+C:\Users\Icaro\Desktop\2143\2143\bin\Debug\2143.exe
+C:\Users\Icaro\Desktop\2143\2143\bin\Debug\2143.pdb
+C:\Users\Icaro\Desktop\2143\2143\obj\Debug\2143.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\2143\2143\obj\Debug\2143.exe
+C:\Users\Icaro\Desktop\2143\2143\obj\Debug\2143.pdb
