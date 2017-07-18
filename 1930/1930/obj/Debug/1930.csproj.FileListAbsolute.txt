@@ -1,0 +1,5 @@
+C:\Users\Icaro\Desktop\1930\1930\bin\Debug\1930.exe.config
+C:\Users\Icaro\Desktop\1930\1930\bin\Debug\1930.exe
+C:\Users\Icaro\Desktop\1930\1930\bin\Debug\1930.pdb
+C:\Users\Icaro\Desktop\1930\1930\obj\Debug\1930.exe
+C:\Users\Icaro\Desktop\1930\1930\obj\Debug\1930.pdb
